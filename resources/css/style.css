@@ -1,10 +1,11 @@
 body {
   text-align: center;
   font-family: Helvetica, sans-serif;
+  line-height: 1;
 }
 
 h1, h2, h3 {
-  font-weight: bold;
+  font-weight: 800;
 }
 
 .hero {
@@ -23,6 +24,10 @@ h1, h2, h3 {
 
 .supporting h3, .hero h2 {
   font-size: 23px;
+}
+
+.supporting h2 {
+  font-size: 32px;
 }
 
 .supporting-item p {
