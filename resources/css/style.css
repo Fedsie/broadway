@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+.hero {
+  background-image: url("../images/building.png");
+  color: white;
+}
+
+.hero h1 {
+  font-size: 70px;
+}
+
+.nav-link {
+  font-size: 18px;
+  color: white;
+}
